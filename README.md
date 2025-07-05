@@ -3,7 +3,7 @@
 ## Set Up
 
 ```
-npx create-react-app@lastest AI-notes
+npx create-next-app@latest AI-notes
 
 npm run dev
 ```
