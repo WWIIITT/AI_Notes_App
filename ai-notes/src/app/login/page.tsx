@@ -1,7 +1,7 @@
 import AuthForm from "@/components/AuthForm";
 import { Card, CardHeader, CardTitle } from "@/components/ui/card";
 
-export default function LoginPage() {
+function LoginPage() {
   return (
     <div className="flex min-h-screen items-center justify-center">
       <Card className="w-full max-w-md">
@@ -13,3 +13,5 @@ export default function LoginPage() {
     </div>
   );
 }
+
+export default LoginPage;
